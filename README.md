@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brodie! I'm currently training to be a full-stack developer with [futureproof](getfutureproof.co.uk)!
 
-I'm passionate about tech, science, and investing - and I'malways looking to learn more!
+I'm passionate about tech, science, and investing - and I'm always looking to learn more!
 
 ## Tech stack
 - HTML, CSS, Bootstrap, JavaScript, Node, express, jest, supertest, postman
