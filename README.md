@@ -4,6 +4,8 @@ I'm passionate about tech, science, and investing - and I'm always looking to le
 
 ## Tech stack
 - HTML, CSS, Bootstrap, JavaScript, Node, express, jest, supertest, postman
+- JWT, bcrypt, Joi
+- MongoDB, Mongoose, Docker, SQL, PostgreSQL
 - MATLAB, Matplotlib; Mathematica
 - Python, numpy, pandas
 
@@ -12,7 +14,7 @@ I'm passionate about tech, science, and investing - and I'm always looking to le
 *All of the above* - when does it ever stop? 
 But also...
 - Tailwind, React, JSX, React Native
-- MongoDB, Docker, SQL, PostgreSQL
+
 
 ## In the future...
 - Flask, Django, Pytest
