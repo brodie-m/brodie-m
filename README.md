@@ -3,17 +3,18 @@
 I'm passionate about tech, science, and investing - and I'm always looking to learn more!
 
 ## Tech stack
-- HTML, CSS, Bootstrap, JavaScript, Node, express, jest, supertest, postman
+- HTML, CSS, Bootstrap, JavaScript, React 
 - JWT, bcrypt, Joi
 - MongoDB, Mongoose, Docker, SQL, PostgreSQL
+- Node, express, jest, supertest, postman
 - MATLAB, Matplotlib; Mathematica
-- Python, numpy, pandas
+- Python, Sklearn, numpy, pandas
 
 ## In progress...
 
 *All of the above* - when does it ever stop? 
 But also...
-- Tailwind, React, JSX, React Native
+- Tailwind, React, React Native
 
 
 ## In the future...
