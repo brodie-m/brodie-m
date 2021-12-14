@@ -3,23 +3,23 @@
 I'm passionate about tech, science, and investing - and I'm always looking to learn more!
 
 ## Tech stack
-- HTML, CSS, Bootstrap, JavaScript, React 
+- HTML, CSS, Bootstrap, Tailwind, JavaScript, React 
 - JWT, bcrypt, Joi
 - MongoDB, Mongoose, Docker, SQL, PostgreSQL
 - Node, express, jest, supertest, postman
 - MATLAB, Matplotlib; Mathematica
 - Python, Sklearn, numpy, pandas
+- Flask, Django, Pytest
 
 ## In progress...
+- Solidity, Brownie
 
-*All of the above* - when does it ever stop? 
-But also...
-- Tailwind, React, React Native
 
 
 ## In the future...
-- Flask, Django, Pytest
+
 - TensorFlow, PyTorch
+- React Native
 - Julia
 
 ## 📫 Get in touch via my [LinkedIn](linkedin.com/in/brodie-mcguire) or send me an [email](mailto:brodiedmcguire@gmail.com) directly!
