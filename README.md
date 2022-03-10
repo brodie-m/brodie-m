@@ -10,9 +10,10 @@ I'm passionate about tech, science, and investing - and I'm always looking to le
 - MATLAB, Matplotlib; Mathematica
 - Python, Sklearn, numpy, pandas
 - Flask, Django, Pytest
+- Solidity, Brownie
 
 ## In progress...
-- Solidity, Brownie
+- Rust
 
 
 
