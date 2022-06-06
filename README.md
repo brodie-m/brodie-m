@@ -1,27 +1,8 @@
-# 👋 Hi, I’m Brodie! I'm currently training to be a full-stack developer with [futureproof](getfutureproof.co.uk)!
+# 👋 Hi, I’m Brodie! I'm a full-stack developer with [futureproof](getfutureproof.co.uk) currently placed at [emerald works](https://emeraldworks.com/)!
+
+I build webapps with a React/MUI frontend and a serverless backend (AWS Lambda) with event-driven architecture.
 
 I'm passionate about tech, science, and investing - and I'm always looking to learn more!
-
-## Tech stack
-- HTML, CSS, Bootstrap, Tailwind, JavaScript, React 
-- JWT, bcrypt, Joi
-- MongoDB, Mongoose, Docker, SQL, PostgreSQL
-- Node, express, jest, supertest, postman
-- MATLAB, Matplotlib; Mathematica
-- Python, Sklearn, numpy, pandas
-- Flask, Django, Pytest
-- Solidity, Brownie
-
-## In progress...
-- Rust
-
-
-
-## In the future...
-
-- TensorFlow, PyTorch
-- React Native
-- Julia
 
 ## 📫 Get in touch via my [LinkedIn](linkedin.com/in/brodie-mcguire) or send me an [email](mailto:brodiedmcguire@gmail.com) directly!
 
