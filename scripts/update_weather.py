@@ -43,10 +43,10 @@ def update_readme(weather, temp):
     lines = readme.split('\n')
     for i, line in enumerate(lines):
         if line.startswith('### working conditions..'):
-            lines[i] = f'## working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}'
+            lines[i] = f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}'
             break
     else:
-        lines.append(f'## working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}')
+        lines.append(f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}')
 
     with open('README.md', 'w') as file:
         file.write('\n'.join(lines))
