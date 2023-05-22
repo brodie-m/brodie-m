@@ -1,7 +1,10 @@
 brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 <!--weather_start-->
-### working conditions..weather: few clouds ☁️temp: 16.91 °C 👕<!--weather_end-->
+
+### working conditions..weather: few clouds ☁️temp: 16.91 °C 👕
+
+<!--weather_end-->
 
 <!---
 brodie-m/brodie-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
