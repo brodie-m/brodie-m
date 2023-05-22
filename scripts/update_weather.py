@@ -32,7 +32,6 @@ def fetch_weather():
     temp = data['main']['temp']
     temp = temp - 273.15  # Convert from Kelvin to Celsius
     return weather, temp
-
 def update_readme(weather, temp):
     with open('README.md', 'r') as file:
         readme = file.readlines()
@@ -40,13 +39,14 @@ def update_readme(weather, temp):
     weather_icon = weather_emoji(weather.lower())
     temp_icon = temp_emoji(temp)
 
-    new_content = f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}'
+    new_content = f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}\n'
     start_marker = '<!--weather_start-->\n'
     end_marker = '<!--weather_end-->\n'
+    
     if start_marker in readme and end_marker in readme:
-        start = readme.index(start_marker)
+        start = readme.index(start_marker) + 1
         end = readme.index(end_marker)
-        readme[start+1:end] = new_content.split('\n')
+        readme[start:end] = new_content.split('\n')
 
     else:
         readme.append(start_marker + new_content + end_marker)
