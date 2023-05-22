@@ -5,12 +5,7 @@ brodie-m/brodie-m is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## working conditions..
-
-weather: few clouds ☁️
-
-temp: 19.45 °C 👕
-## working conditions..
+### working conditions..
 
 weather: broken clouds ☁️
 
