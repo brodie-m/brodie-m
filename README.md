@@ -10,7 +10,3 @@ You can click the Preview link to take a look at your changes.
 weather: few clouds ☁️
 
 temp: 18.30 °C 👕
-
-weather: broken clouds ☁️
-
-temp: 19.33 °C 👕
