@@ -35,21 +35,24 @@ def fetch_weather():
 
 def update_readme(weather, temp):
     with open('README.md', 'r') as file:
-        readme = file.read()
+        readme = file.readlines()
 
     weather_icon = weather_emoji(weather.lower())
     temp_icon = temp_emoji(temp)
 
-    lines = readme.split('\n')
-    for i, line in enumerate(lines):
-        if line.startswith('### working conditions..'):
-            lines[i] = f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}'
-            break
+    new_content = f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}'
+    start_marker = '<!--weather_start-->\n'
+    end_marker = '<!--weather_end-->\n'
+    if start_marker in readme and end_marker in readme:
+        start = readme.index(start_marker)
+        end = readme.index(end_marker)
+        readme[start+1:end] = new_content.split('\n')
+
     else:
-        lines.append(f'### working conditions..\n\nweather: {weather} {weather_icon}\n\ntemp: {temp:.2f} °C {temp_icon}')
+        readme.append(start_marker + new_content + end_marker)
 
     with open('README.md', 'w') as file:
-        file.write('\n'.join(lines))
+        file.write(''.join(readme))
 
 def main():
     weather, temp = fetch_weather()
