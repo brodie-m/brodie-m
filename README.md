@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: clear sky ☀️
 
-temp: 13.92 °C 👕
+temp: 12.57 °C 👕
 
 <!--weather_end-->
