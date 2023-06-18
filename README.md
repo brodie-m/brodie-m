@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: few clouds ☁️
+weather: haze 
 
-temp: 16.46 °C 👕
+temp: 16.51 °C 👕
 
 <!--weather_end-->
