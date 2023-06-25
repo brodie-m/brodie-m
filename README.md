@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: broken clouds ☁️
 
-temp: 30.26 °C 🥶
+temp: 29.84 °C 🥶
 
 <!--weather_end-->
