@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: heavy intensity rain 🌧️
 
-temp: 18.10 °C 👕
+temp: 17.58 °C 👕
 
 <!--weather_end-->
