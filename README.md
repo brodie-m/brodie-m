@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: light intensity drizzle 
 
-temp: 15.45 °C 👕
+temp: 15.37 °C 👕
 
 <!--weather_end-->
