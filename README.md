@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: fog 
 
-temp: 16.05 °C 👕
+temp: 16.18 °C 👕
 
 <!--weather_end-->
