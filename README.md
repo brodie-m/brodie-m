@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: mist 
 
-temp: 16.08 °C 👕
+temp: 16.21 °C 👕
 
 <!--weather_end-->
