@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: drizzle 
 
-temp: 13.71 °C 👕
+temp: 13.96 °C 👕
 
 <!--weather_end-->
