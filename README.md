@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: few clouds ☁️
+weather: light rain 🌧️
 
-temp: 5.86 °C 🧥
+temp: 4.95 °C 🧥
 
 <!--weather_end-->
