@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: haze 
+weather: fog 
 
-temp: -1.28 °C 🧥
+temp: -1.67 °C 🧥
 
 <!--weather_end-->
