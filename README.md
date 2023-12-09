@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: few clouds ☁️
 
-temp: 10.07 °C 👕
+temp: 9.66 °C 🧥
 
 <!--weather_end-->
