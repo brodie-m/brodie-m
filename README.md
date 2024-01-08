@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: overcast clouds ☁️
 
-temp: 2.84 °C 🧥
+temp: 2.91 °C 🧥
 
 <!--weather_end-->
