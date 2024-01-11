@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: scattered clouds ☁️
+weather: clear sky ☀️
 
-temp: 1.29 °C 🧥
+temp: 0.68 °C 🧥
 
 <!--weather_end-->
