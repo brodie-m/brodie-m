@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: light intensity drizzle 
+weather: overcast clouds ☁️
 
-temp: 11.73 °C 👕
+temp: 11.68 °C 👕
 
 <!--weather_end-->
