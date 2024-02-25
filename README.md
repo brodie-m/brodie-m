@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: fog 
+weather: mist 
 
-temp: 3.70 °C 🧥
+temp: 5.26 °C 🧥
 
 <!--weather_end-->
