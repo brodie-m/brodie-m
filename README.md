@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: light rain 🌧️
 
-temp: 9.07 °C 🧥
+temp: 8.76 °C 🧥
 
 <!--weather_end-->
