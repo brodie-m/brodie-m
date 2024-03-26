@@ -3,8 +3,8 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 <!--weather_start-->
 ### working conditions..
 
-weather: heavy intensity rain 🌧️
+weather: moderate rain 🌧️
 
-temp: 9.49 °C 🧥
+temp: 9.17 °C 🧥
 
 <!--weather_end-->
