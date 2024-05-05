@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: scattered clouds ☁️
 
-temp: 18.14 °C 👕
+temp: 17.78 °C 👕
 
 <!--weather_end-->
