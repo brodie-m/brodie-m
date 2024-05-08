@@ -5,6 +5,6 @@ brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
 
 weather: haze 
 
-temp: 9.90 °C 🧥
+temp: 10.39 °C 👕
 
 <!--weather_end-->
