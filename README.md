@@ -1,4 +1,4 @@
-brodie @ [BluMint](https://www.linkedin.com/company/blumint-io/)
+brodie
 
 <!--weather_start-->
 ### working conditions..
