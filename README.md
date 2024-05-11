@@ -3,8 +3,8 @@ brodie
 <!--weather_start-->
 ### working conditions..
 
-weather: haze 
+weather: fog 
 
-temp: 10.36 °C 👕
+temp: 11.26 °C 👕
 
 <!--weather_end-->
