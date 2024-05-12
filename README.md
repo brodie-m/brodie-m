@@ -5,6 +5,6 @@ brodie
 
 weather: haze 
 
-temp: 12.02 °C 👕
+temp: 13.40 °C 👕
 
 <!--weather_end-->
