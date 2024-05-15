@@ -3,8 +3,8 @@ brodie
 <!--weather_start-->
 ### working conditions..
 
-weather: broken clouds ☁️
+weather: scattered clouds ☁️
 
-temp: 19.16 °C 👕
+temp: 19.61 °C 👕
 
 <!--weather_end-->
