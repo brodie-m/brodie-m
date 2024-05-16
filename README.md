@@ -5,6 +5,6 @@ brodie
 
 weather: fog 
 
-temp: 11.16 °C 👕
+temp: 11.24 °C 👕
 
 <!--weather_end-->
