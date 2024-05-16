@@ -3,8 +3,8 @@ brodie
 <!--weather_start-->
 ### working conditions..
 
-weather: scattered clouds ☁️
+weather: haze 
 
-temp: 12.91 °C 👕
+temp: 11.85 °C 👕
 
 <!--weather_end-->
