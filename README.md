@@ -5,6 +5,6 @@ brodie
 
 weather: mist 
 
-temp: 11.67 °C 👕
+temp: 12.25 °C 👕
 
 <!--weather_end-->
