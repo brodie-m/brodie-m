@@ -5,6 +5,6 @@ brodie
 
 weather: clear sky ☀️
 
-temp: 15.31 °C 👕
+temp: 16.93 °C 👕
 
 <!--weather_end-->
