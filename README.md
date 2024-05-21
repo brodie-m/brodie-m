@@ -5,6 +5,6 @@ brodie
 
 weather: few clouds ☁️
 
-temp: 13.20 °C 👕
+temp: 12.10 °C 👕
 
 <!--weather_end-->
