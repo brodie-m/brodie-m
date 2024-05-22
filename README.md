@@ -3,8 +3,8 @@ brodie
 <!--weather_start-->
 ### working conditions..
 
-weather: drizzle rain 🌧️
+weather: light intensity drizzle 
 
-temp: 13.35 °C 👕
+temp: 13.62 °C 👕
 
 <!--weather_end-->
